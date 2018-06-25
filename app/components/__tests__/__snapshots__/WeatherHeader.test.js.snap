@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test with react-test-renderer 1`] = `
+<div
+  className="WeatherHeader-container"
+>
+  <img
+    alt="Weather icon"
+    className="WeatherHeader-img"
+    src="test-file-stub"
+  />
+  <h2
+    className="WeatherHeader-header"
+  >
+    M03 25, Sun
+  </h2>
+</div>
+`;
